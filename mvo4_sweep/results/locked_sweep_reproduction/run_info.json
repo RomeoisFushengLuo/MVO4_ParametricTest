@@ -1,0 +1,97 @@
+{
+ "started": "2026-09-23T16:22:53",
+ "config": "presets\\locked_sweep_report.py",
+ "t1_method": "weighted",
+ "marketdd_file": "data/archive/MarketDD_before_signature_fix.xlsx",
+ "grid": {
+  "K": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "Seeds": [
+   3,
+   5,
+   7,
+   9,
+   11,
+   13
+  ],
+  "MinAppear": [
+   2,
+   3,
+   4,
+   5
+  ],
+  "w1": [
+   0.05,
+   0.07,
+   0.09,
+   0.11,
+   0.13,
+   0.15,
+   0.17
+  ]
+ },
+ "events": [
+  "Swan 8",
+  "Swan 9",
+  "Swan 10D",
+  "Swan 11A"
+ ],
+ "windows": {
+  "Swan 8": {
+   "train_start": "2017-07-22",
+   "train_end": "2018-09-28",
+   "extended_to_fit_curve": false,
+   "peak": "2018-10-03",
+   "bottom": "2018-12-24",
+   "t1": 73,
+   "t2": 216,
+   "dd": 0.2538755845787302
+  },
+  "Swan 9": {
+   "train_start": "2019-01-01",
+   "train_end": "2020-02-15",
+   "extended_to_fit_curve": false,
+   "peak": "2020-02-19",
+   "bottom": "2020-03-23",
+   "t1": 68,
+   "t2": 200,
+   "dd": 0.24709028449533582
+  },
+  "Swan 10D": {
+   "train_start": "2020-11-16",
+   "train_end": "2021-12-31",
+   "extended_to_fit_curve": false,
+   "peak": "2022-01-03",
+   "bottom": "2022-10-12",
+   "t1": 58,
+   "t2": 188,
+   "dd": 0.25467047442812923
+  },
+  "Swan 11A": {
+   "train_start": "2023-10-31",
+   "train_end": "2025-01-31",
+   "extended_to_fit_curve": false,
+   "peak": "2025-02-19",
+   "bottom": "2025-04-08",
+   "t1": 96,
+   "t2": 210,
+   "dd": 0.2564034269853163
+  }
+ },
+ "environment": {
+  "python": "3.13.14",
+  "pandas": "2.3.3",
+  "numpy": "2.2.3",
+  "scikit_learn": "1.7.2",
+  "pypfopt": "1.6.0",
+  "yfinance": "1.3.0"
+ }
+}

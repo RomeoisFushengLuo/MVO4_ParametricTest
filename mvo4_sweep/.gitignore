@@ -1,0 +1,3 @@
+__pycache__/
+.ipynb_checkpoints/
+results/*/raw_runs_partial.csv
