@@ -1,0 +1,14 @@
+test_ambiguous_missing_run_fails (test_pipeline.PipelineTests.test_ambiguous_missing_run_fails) ... ok
+test_curve_front_rounding_and_length (test_pipeline.PipelineTests.test_curve_front_rounding_and_length) ... ok
+test_inclusive_seeds_are_used (test_pipeline.PipelineTests.test_inclusive_seeds_are_used) ... ok
+test_infeasible_cap_has_no_fallback (test_pipeline.PipelineTests.test_infeasible_cap_has_no_fallback) ... ok
+test_missing_prices_use_actual_row_and_neighbors (test_pipeline.PipelineTests.test_missing_prices_use_actual_row_and_neighbors) ... ok
+test_rf_zero_floor_and_renormalization (test_pipeline.PipelineTests.test_rf_zero_floor_and_renormalization) ... ok
+test_summaries_exclude_incomplete_combinations (test_pipeline.PipelineTests.test_summaries_exclude_incomplete_combinations) ... ok
+test_training_never_contains_predicted_swan (test_pipeline.PipelineTests.test_training_never_contains_predicted_swan) ... ok
+test_vote_threshold_has_no_off_by_one (test_pipeline.PipelineTests.test_vote_threshold_has_no_off_by_one) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.073s
+
+OK

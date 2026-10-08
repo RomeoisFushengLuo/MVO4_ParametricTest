@@ -1,0 +1,39 @@
+{
+  "runs": 5376,
+  "solved": 4130,
+  "complete_combos": 871,
+  "same_parameter_rows": true,
+  "same_statuses": true,
+  "max_PR_difference": 2.7755575615628914e-15,
+  "same_stock_counts": true,
+  "max_portfolio_drawdown_difference": 6.002143226879753e-16,
+  "max_benchmark_drawdown_difference": 0.0,
+  "same_training_starts": true,
+  "same_holdings": true,
+  "max_weight_difference_vs_rounded_reference": 4.999850001519146e-07,
+  "best_worst_case": {
+    "K": 7.0,
+    "Seeds": 3.0,
+    "MinAppear": 3.0,
+    "w1": 0.17,
+    "Swan 8": 0.531485587158176,
+    "Swan 9": 0.4911949387926133,
+    "Swan 10D": 0.4460941446207144,
+    "Swan 11A": 0.99497584522739,
+    "mean_PR": 0.6159376289497234,
+    "min_PR": 0.4460941446207144
+  },
+  "best_mean": {
+    "K": 12.0,
+    "Seeds": 3.0,
+    "MinAppear": 3.0,
+    "w1": 0.11,
+    "Swan 8": 0.8507301470505317,
+    "Swan 9": 0.3386966390123165,
+    "Swan 10D": 0.4467906224557947,
+    "Swan 11A": 0.9690492595033826,
+    "mean_PR": 0.6513166670055064,
+    "min_PR": 0.3386966390123165
+  },
+  "passed": true
+}

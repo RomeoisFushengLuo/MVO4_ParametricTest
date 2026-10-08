@@ -1,0 +1,58 @@
+{
+  "guide": "REPLICATION_GUIDE.md",
+  "source": "/workspace/MVO4_ParametricTest/mvo4_sweep",
+  "grid": {
+    "K": [
+      7
+    ],
+    "Seeds": [
+      3
+    ],
+    "MinAppear": [
+      3
+    ],
+    "w1": [
+      0.17
+    ]
+  },
+  "events": [
+    "Swan 8",
+    "Swan 9",
+    "Swan 10D",
+    "Swan 11A"
+  ],
+  "environment": {
+    "python": "3.12.14",
+    "numpy": "2.2.3",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "scipy": "1.16.3",
+    "PyPortfolioOpt": "1.6.0",
+    "cvxpy": "1.9.2"
+  },
+  "runs": 4,
+  "solved": 4,
+  "complete_combos": 1,
+  "windows": {
+    "Swan 8": {
+      "start": "2017-08-07",
+      "end": "2018-09-28",
+      "extended": true
+    },
+    "Swan 9": {
+      "start": "2018-12-30",
+      "end": "2020-02-14",
+      "extended": false
+    },
+    "Swan 10D": {
+      "start": "2020-11-15",
+      "end": "2021-12-31",
+      "extended": false
+    },
+    "Swan 11A": {
+      "start": "2023-12-30",
+      "end": "2025-02-14",
+      "extended": false
+    }
+  }
+}

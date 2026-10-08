@@ -1,0 +1,69 @@
+event,check,match,max_abs_diff
+Swan 8,guide universe and selected counts,True,
+Swan 8,"guide dates, cutoff, days, t1 and t2",True,
+Swan 8,guide PR and benchmark drawdown,True,
+Swan 8,all 1000 ranked seeds and DBI scores,True,0.0
+Swan 8,all stock votes,True,
+Swan 8,selected stocks,True,
+Swan 8,injection betas,True,0.0
+Swan 8,curve,True,0.0
+Swan 8,raw prices,True,0.0
+Swan 8,injected prices,True,0.0
+Swan 8,fall,True,0.0
+Swan 8,R_fwd,True,0.0
+Swan 8,E_2,True,0.0
+Swan 8,covariance,True,0.0
+Swan 8,final weights,True,2.7755575615628914e-17
+Swan 8,curve shape t1/t2/dd,True,
+Swan 8,evaluation PR,True,0.0
+Swan 9,guide universe and selected counts,True,
+Swan 9,"guide dates, cutoff, days, t1 and t2",True,
+Swan 9,guide PR and benchmark drawdown,True,
+Swan 9,all 1000 ranked seeds and DBI scores,True,0.0
+Swan 9,all stock votes,True,
+Swan 9,selected stocks,True,
+Swan 9,injection betas,True,0.0
+Swan 9,curve,True,0.0
+Swan 9,raw prices,True,0.0
+Swan 9,injected prices,True,0.0
+Swan 9,fall,True,0.0
+Swan 9,R_fwd,True,0.0
+Swan 9,E_2,True,0.0
+Swan 9,covariance,True,0.0
+Swan 9,final weights,True,0.0
+Swan 9,curve shape t1/t2/dd,True,
+Swan 9,evaluation PR,True,0.0
+Swan 10D,guide universe and selected counts,True,
+Swan 10D,"guide dates, cutoff, days, t1 and t2",True,
+Swan 10D,guide PR and benchmark drawdown,True,
+Swan 10D,all 1000 ranked seeds and DBI scores,True,0.0
+Swan 10D,all stock votes,True,
+Swan 10D,selected stocks,True,
+Swan 10D,injection betas,True,0.0
+Swan 10D,curve,True,0.0
+Swan 10D,raw prices,True,0.0
+Swan 10D,injected prices,True,0.0
+Swan 10D,fall,True,0.0
+Swan 10D,R_fwd,True,0.0
+Swan 10D,E_2,True,0.0
+Swan 10D,covariance,True,0.0
+Swan 10D,final weights,True,0.0
+Swan 10D,curve shape t1/t2/dd,True,
+Swan 10D,evaluation PR,True,0.0
+Swan 11A,guide universe and selected counts,True,
+Swan 11A,"guide dates, cutoff, days, t1 and t2",True,
+Swan 11A,guide PR and benchmark drawdown,True,
+Swan 11A,all 1000 ranked seeds and DBI scores,True,0.0
+Swan 11A,all stock votes,True,
+Swan 11A,selected stocks,True,
+Swan 11A,injection betas,True,0.0
+Swan 11A,curve,True,0.0
+Swan 11A,raw prices,True,0.0
+Swan 11A,injected prices,True,0.0
+Swan 11A,fall,True,0.0
+Swan 11A,R_fwd,True,0.0
+Swan 11A,E_2,True,0.0
+Swan 11A,covariance,True,0.0
+Swan 11A,final weights,True,0.0
+Swan 11A,curve shape t1/t2/dd,True,
+Swan 11A,evaluation PR,True,0.0
