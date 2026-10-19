@@ -1,0 +1,43 @@
+{
+  "updated_at_utc": "2026-10-19T21:49:19.485895+00:00",
+  "requested_stock_symbols": 518,
+  "beta_universe": 502,
+  "current_constituents": 503,
+  "current_analysts_are_not_historical": true,
+  "state": "blocked_before_download",
+  "error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+  "price_history_files": 0,
+  "benchmarks": [],
+  "analyst_targets": 0,
+  "usable_analyst_inputs": 0,
+  "event_coverage": [
+    {
+      "event": "Swan_8",
+      "eligible_beta_stocks": 370,
+      "history_files": 0,
+      "complete_training_and_endpoints": 0,
+      "benchmark_available": false
+    },
+    {
+      "event": "Swan_9",
+      "eligible_beta_stocks": 410,
+      "history_files": 0,
+      "complete_training_and_endpoints": 0,
+      "benchmark_available": false
+    },
+    {
+      "event": "Swan_10D",
+      "eligible_beta_stocks": 417,
+      "history_files": 0,
+      "complete_training_and_endpoints": 0,
+      "benchmark_available": false
+    },
+    {
+      "event": "Swan_11A",
+      "eligible_beta_stocks": 424,
+      "history_files": 0,
+      "complete_training_and_endpoints": 0,
+      "benchmark_available": false
+    }
+  ]
+}

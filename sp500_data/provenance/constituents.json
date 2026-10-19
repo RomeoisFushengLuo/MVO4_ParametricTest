@@ -1,0 +1,6 @@
+{
+  "source": "https://raw.githubusercontent.com/datasets/s-and-p-500-companies/main/data/constituents.csv",
+  "retrieved_at_utc": "2026-10-19T21:48:48.596560+00:00",
+  "sha256": "494a809d434e28f55624ee1d67b13e9f235e603d069cb8a71838f451443ed8fa",
+  "note": "Current source snapshot; not historical event-date membership"
+}
