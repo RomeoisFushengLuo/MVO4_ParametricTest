@@ -1,0 +1,5 @@
+symbol,operation,error,at_utc
+ERIE,analysts,ValueError: No current analyst target returned,2026-10-19T23:03:34.378233+00:00
+FOX,analysts,ValueError: No current analyst target returned,2026-10-19T23:04:05.753509+00:00
+L,analysts,ValueError: No current analyst target returned,2026-10-19T23:05:34.196729+00:00
+NWS,analysts,ValueError: No current analyst target returned,2026-10-19T23:06:46.617004+00:00

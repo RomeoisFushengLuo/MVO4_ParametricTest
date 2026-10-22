@@ -1,0 +1,17 @@
+[
+  {
+    "filename": "prices.zip",
+    "bytes": 3254405,
+    "sha256": "0d2276d48d312817bff3647f96f8bff33bcdb483c2e266bb96dd26d874ca6e28"
+  },
+  {
+    "filename": "data.zip",
+    "bytes": 96672,
+    "sha256": "2065dd838b6064632ed3e3690132abc13d05529d43e174252950ea0968a08497"
+  },
+  {
+    "filename": "reports.zip",
+    "bytes": 9576,
+    "sha256": "1ea8727d935b22d20c0df676232f119d903b8419dbc8de1f3f55275528066081"
+  }
+]

@@ -1,0 +1,8 @@
+test_crash_depth_is_from_sp500_and_timing_stays_fixed (test_sp500.InputTests.test_crash_depth_is_from_sp500_and_timing_stays_fixed) ... ok
+test_current_returns_are_validated_and_not_historical (test_sp500.InputTests.test_current_returns_are_validated_and_not_historical) ... ok
+test_price_eligibility_matches_uploaded_reports (test_sp500.InputTests.test_price_eligibility_matches_uploaded_reports) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.312s
+
+OK

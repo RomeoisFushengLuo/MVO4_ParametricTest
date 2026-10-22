@@ -1,0 +1,12 @@
+{
+  "SP100_event": "Swan 9",
+  "parameters": {
+    "K": 7,
+    "Seeds": 3,
+    "MinAppear": 3,
+    "w1": 0.17
+  },
+  "PR": 0.49119493879261333,
+  "expected_PR": 0.4911949387926133,
+  "passed": true
+}

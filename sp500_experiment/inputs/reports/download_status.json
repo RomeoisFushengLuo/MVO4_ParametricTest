@@ -1,0 +1,48 @@
+{
+  "updated_at_utc": "2026-10-19T23:00:29.478978+00:00",
+  "requested_stock_symbols": 518,
+  "beta_universe": 502,
+  "current_constituents": 503,
+  "current_analysts_are_not_historical": true,
+  "state": "completed_with_gaps",
+  "processed": 500,
+  "price_history_files": 518,
+  "benchmarks": [
+    "SPY",
+    "^GSPC"
+  ],
+  "analyst_targets": 514,
+  "usable_analyst_inputs": 508,
+  "event_coverage": [
+    {
+      "event": "Swan_8",
+      "eligible_beta_stocks": 370,
+      "history_files": 370,
+      "complete_training_and_endpoints": 367,
+      "benchmark_available": true
+    },
+    {
+      "event": "Swan_9",
+      "eligible_beta_stocks": 410,
+      "history_files": 410,
+      "complete_training_and_endpoints": 405,
+      "benchmark_available": true
+    },
+    {
+      "event": "Swan_10D",
+      "eligible_beta_stocks": 417,
+      "history_files": 417,
+      "complete_training_and_endpoints": 412,
+      "benchmark_available": true
+    },
+    {
+      "event": "Swan_11A",
+      "eligible_beta_stocks": 424,
+      "history_files": 424,
+      "complete_training_and_endpoints": 419,
+      "benchmark_available": true
+    }
+  ],
+  "failures": 4,
+  "completed_at_utc": "2026-10-19T23:09:45.473285+00:00"
+}

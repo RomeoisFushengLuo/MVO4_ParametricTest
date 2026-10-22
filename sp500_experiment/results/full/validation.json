@@ -1,0 +1,11 @@
+{
+  "expected_runs": 5376,
+  "actual_runs": 5376,
+  "unique_complete_grid": true,
+  "solved_portfolios_re_evaluated": 4816,
+  "method": "Independent weighted endpoint-return identity, not evaluate()",
+  "max_re_evaluation_PR_difference": 3.552713678800501e-15,
+  "weights_and_data_eligibility_passed": true,
+  "ranking_files": 32,
+  "ranked_seeds_per_file": 1000
+}

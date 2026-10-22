@@ -1,0 +1,41 @@
+Swan 8, K=5: 168 completed
+Swan 8, K=6: 336 completed
+Swan 8, K=7: 504 completed
+Swan 8, K=8: 672 completed
+Swan 8, K=9: 840 completed
+Swan 8, K=10: 1008 completed
+Swan 8, K=11: 1176 completed
+Swan 8, K=12: 1344 completed
+Swan 9, K=5: 1512 completed
+Swan 9, K=6: 1680 completed
+Swan 9, K=7: 1848 completed
+Swan 9, K=8: 2016 completed
+Swan 9, K=9: 2184 completed
+Swan 9, K=10: 2352 completed
+Swan 9, K=11: 2520 completed
+Swan 9, K=12: 2688 completed
+Swan 10D, K=5: 2856 completed
+Swan 10D, K=6: 3024 completed
+Swan 10D, K=7: 3192 completed
+Swan 10D, K=8: 3360 completed
+Swan 10D, K=9: 3528 completed
+Swan 10D, K=10: 3696 completed
+Swan 10D, K=11: 3864 completed
+Swan 10D, K=12: 4032 completed
+Swan 11A, K=5: 4200 completed
+Swan 11A, K=6: 4368 completed
+Swan 11A, K=7: 4536 completed
+Swan 11A, K=8: 4704 completed
+Swan 11A, K=9: 4872 completed
+Swan 11A, K=10: 5040 completed
+Swan 11A, K=11: 5208 completed
+Swan 11A, K=12: 5376 completed
+{"runs": 5376, "solved": 4816, "complete_combos": 1161}
+ K  Seeds  MinAppear   w1   Swan 8   Swan 9  Swan 10D  Swan 11A  mean_PR   min_PR
+12      5          3 0.09 0.997408 0.110405  0.760798  0.934221 0.700708 0.110405
+12      7          4 0.09 0.997408 0.110788  0.727836  0.934221 0.692563 0.110788
+12      5          3 0.17 0.999564 0.019981  0.773637  0.976223 0.692352 0.019981
+ K  Seeds  MinAppear   w1   Swan 8   Swan 9  Swan 10D  Swan 11A  mean_PR   min_PR
+ 7      9          2 0.17 0.694899 0.176913  0.459826  0.872335 0.550993 0.176913
+ 7      9          3 0.17 0.694899 0.176913  0.459826  0.872335 0.550993 0.176913
+ 7      9          4 0.17 0.694899 0.176913  0.459826  0.872335 0.550993 0.176913

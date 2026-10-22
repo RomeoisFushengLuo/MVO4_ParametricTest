@@ -1,0 +1,62 @@
+{
+  "Swan_8": {
+    "start": "2017-05-16",
+    "end_exclusive": "2019-01-03",
+    "train_start": "2017-08-07",
+    "train_end": "2018-09-28",
+    "peak": "2018-10-03",
+    "bottom": "2018-12-24",
+    "betas": [
+      "Swan3",
+      "Swan4",
+      "Swan5",
+      "Swan6",
+      "Swan7"
+    ]
+  },
+  "Swan_9": {
+    "start": "2018-10-03",
+    "end_exclusive": "2020-04-02",
+    "train_start": "2018-12-30",
+    "train_end": "2020-02-14",
+    "peak": "2020-02-19",
+    "bottom": "2020-03-23",
+    "betas": [
+      "Swan4",
+      "Swan5",
+      "Swan6",
+      "Swan7",
+      "Swan8"
+    ]
+  },
+  "Swan_10D": {
+    "start": "2020-08-18",
+    "end_exclusive": "2022-10-22",
+    "train_start": "2020-11-15",
+    "train_end": "2021-12-31",
+    "peak": "2022-01-03",
+    "bottom": "2022-10-12",
+    "betas": [
+      "Swan5",
+      "Swan6",
+      "Swan7",
+      "Swan8",
+      "S9"
+    ]
+  },
+  "Swan_11A": {
+    "start": "2023-08-22",
+    "end_exclusive": "2025-04-18",
+    "train_start": "2023-12-30",
+    "train_end": "2025-02-14",
+    "peak": "2025-02-19",
+    "bottom": "2025-04-08",
+    "betas": [
+      "Swan6",
+      "Swan7",
+      "Swan8",
+      "S9",
+      "S10D"
+    ]
+  }
+}

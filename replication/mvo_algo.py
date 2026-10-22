@@ -251,6 +251,11 @@ class Replication:
             self._selection[key] = preselect(self.training_beta(event), self.dbi_ranking(event, K), K, Seeds, MinAppear)
         return self._selection[key]
 
+    def forward_returns(self, event: str) -> pd.Series:
+        """Event analyst inputs; subclasses may supply explicitly labeled snapshots."""
+        optdata = pd.read_excel(self.source / "data/optdata" / EVENTS[event].optdata, index_col=0)
+        return optdata["R_fwd_30_MA"].astype(float)
+
     def risk_inputs(self, event: str, selected: pd.DataFrame) -> dict:
         key = (event, tuple(selected.index))
         if key in self._risk:
@@ -279,8 +284,7 @@ class Replication:
         simple = np.exp(np.log1p(weekly)) - 1
         covariance = pd.DataFrame(np.cov(simple, rowvar=False, bias=False) * 51,
                                   index=weekly.columns, columns=weekly.columns)
-        optdata = pd.read_excel(self.source / "data/optdata" / EVENTS[event].optdata, index_col=0)
-        forward = optdata["R_fwd_30_MA"].reindex(fall.index).astype(float)
+        forward = self.forward_returns(event).reindex(fall.index).astype(float)
         expected = (forward / fall).replace([np.inf, -np.inf], np.nan).dropna()
         names = expected.index
         covariance = covariance.loc[names, names]
